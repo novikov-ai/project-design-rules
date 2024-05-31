@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace StringFormatting
+namespace RemoveExceptions.Example2
 {
     public static class TelNumbers
     {
