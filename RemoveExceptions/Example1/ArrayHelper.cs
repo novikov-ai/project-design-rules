@@ -4,7 +4,6 @@ namespace RemoveExceptions.Example1
 {
     public static class ArrayHelper
     {
-        // Если аргумент будет = null, то сгенерируем исключения
         public static int GetSumOfPositiveNumbers(int[,] array)
         {
             if (array is null)
